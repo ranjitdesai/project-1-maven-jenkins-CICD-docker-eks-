@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>new user  shanur nadaf  m.sc dipak mane (patil) m.sc kartik jagtap m.sc </h1>
+    <h1>NEW USER REGISTER FOR DevOps+AWS REAL TIME TRANNING 2025 AT NARESH-IT HYDERABAD </h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
